@@ -1,0 +1,6 @@
+@atomos_HostAddress = http://localhost:5239
+
+GET {{atomos_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
